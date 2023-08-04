@@ -5,8 +5,8 @@ public class Variables {
         short number2 = 32767; //16 bits -> range: -32,768 to 32,767
         int number3 = 2147483647; //32 bits -> range: -2,147,483,648 a 2,147,483,647.
         long number4 = 9223372036854775807L ; //64 bits -> range: -9,223,372,036,854,775,808L to 9,223,372,036,854,775,807L.
-        float number5 = 12345.67f; //32 bits -> decimals
-        double number6 = 12345.67f; //64 bits -> Greater precision
+        float number5 = 12345.67f; //32 bits -> decimals - 6-7 digits
+        double number6 = 12345.67f; //64 bits -> Greater precision - 15 digits
         char symbol = 'S';
         boolean isLike = true;
 
