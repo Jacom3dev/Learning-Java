@@ -12,3 +12,4 @@ En este repositorio, he registrado mi viaje de aprendizaje en el maravilloso mun
 6. **functions**: en esta clase simulamos el lanzamiento de dos dados y  mostramos sus resultados junto con sus representaciones visuales.
 7. **Loops**: se muestra el uso de diferentes tipos de bucles en Java para lograr la misma tarea: imprimir los números del 1 al 10 en la consola.
 8. **Arrays**: Creé un arreglo de cadenas que representan números del 1 al 10, así como un arreglo bidimensional lleno de números aleatorios entre 1 y 100. Utilicé bucles para mostrar tanto las cadenas de números como los valores del arreglo bidimensional en la consola.
+### POO
