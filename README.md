@@ -13,3 +13,6 @@ En este repositorio, he registrado mi viaje de aprendizaje en el maravilloso mun
 7. **Loops**: se muestra el uso de diferentes tipos de bucles en Java para lograr la misma tarea: imprimir los números del 1 al 10 en la consola.
 8. **Arrays**: Creé un arreglo de cadenas que representan números del 1 al 10, así como un arreglo bidimensional lleno de números aleatorios entre 1 y 100. Utilicé bucles para mostrar tanto las cadenas de números como los valores del arreglo bidimensional en la consola.
 ### POO
+1. **Main**: es donde comienza la ejecución de un programa en Java. En tu archivo "Main.java" del paquete "POO", este método inicia tu programa, permitiendo que realices acciones como crear objetos, llamar métodos y controlar la lógica principal.
+2. **Date**: brinda métodos estáticos para acceder a detalles de la fecha actual, como el día de la semana, el día del mes y el nombre del mes. Su diseño encapsulado permite obtener fácilmente información de fecha en aplicaciones orientadas a objetos.
+3. **Doctor**:  almacena información sobre médicos, como su ID, nombre y especialidad. Utiliza métodos de acceso para garantizar una manipulación segura de datos y proporciona una función para mostrar su información. Perfecta para modelar médicos en sistemas orientados a objetos.
